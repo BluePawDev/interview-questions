@@ -14,9 +14,9 @@ To rock the interview to achieve what you deserve and to improve your concepts a
 * [html: Basic Questions for Begginers](#html-basic-questions-for-begginers)
 
 ### General
-#### What did you learn yesterday/this week?
+##### What did you learn yesterday/this week?
 
-#### What excites or interests you about coding?
+##### What excites or interests you about coding?
 
 I'm generally interested in quite everything about coding. Nowadays I'm
 especially fascinated by Haskell, one of the most beautiful languages I've
