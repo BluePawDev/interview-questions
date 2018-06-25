@@ -429,9 +429,10 @@ and applied in the same rendering process as HTML elements do. The easiest way
 is to place them in the `head`, and avoid applying styles by scripts at the
 first load.
 
-#### Explain what ARIA and screenreaders are, and how to make a website accessible.
+#### What is ARIA and screenreaders and what can be done to make a website accessible?
 
-ARIA stands for Accessible Rich Internet Application which is a set of attributes that define how to make web content/application more accessible to those with disabilities.
+* ARIA stands for _Accessible Rich Internet Application_ which is a set of attributes that define how to make web content/application more accessible to those with disabilities.
+* ARIA is a set of special accessibility attributes which can be added to any markup, but is especially suited to HTML.
 
 They are for accessibility. To make a website accessible, we should try to
 follow the usage of HTML elements, for example, `h1` for headers and `section`
