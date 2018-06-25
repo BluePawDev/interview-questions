@@ -431,10 +431,10 @@ first load.
 
 #### What is ARIA and screenreaders and what can be done to make a website accessible?
 
-* _Accessible Rich Internet Application_ (ARIA) is a set of attributes that define how to make web content/application more accessible to those with disabilities.
+* (_Accessible Rich Internet Application_ (ARIA))[https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA] is a set of attributes that define how to make web content/application more accessible to those with disabilities.
 * ARIA is a set of special accessibility attributes which can be added to any markup, but is especially suited to HTML.
 * A screen reader is a form of assistive technology (AT) which is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device.
-* To make a website accessible implementing correct semantic HTML is critical such as appropriately using `h1` for headers and `section` for sections; additionally ensuring visual contents is accessible by using `alt` attributes to `img` tags.
+* To make a website accessible implementing correct semantic HTML is critical such as appropriately using `h1` for headers and `section` for sections; additionally ensuring visual contents is accessible by using `alt` attributes within `img` tags.
 
 #### Explain some of the pros and cons for CSS animations versus JavaScript animations.
 
