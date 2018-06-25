@@ -14,8 +14,8 @@ To rock the interview to achieve what you deserve and to improve your concepts a
 * [html: Basic Questions for Begginers](#html-basic-questions-for-begginers)
 
 ### General
-Q. What did you learn yesterday/this week?
-A. 
+**Q**. What did you learn yesterday/this week?
+**A**. 
 
 ```
 function isPrime(n){
