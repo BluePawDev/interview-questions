@@ -17,7 +17,18 @@ To rock the interview to achieve what you deserve and to improve your concepts a
 Q. What did you learn yesterday/this week?
 A. 
 
+`function isPrime(n){
+  var divisor = 2;
 
+  while (n > divisor){
+    if(n % divisor == 0){
+     return false; 
+    }
+    else
+      divisor++;
+  }
+  return true;
+}`
 
 
 ### [Angular Interview Questions](https://github.com/khan4019/angular-interview-questions)
