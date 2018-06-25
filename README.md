@@ -14,8 +14,18 @@ To rock the interview to achieve what you deserve and to improve your concepts a
 * [html: Basic Questions for Begginers](#html-basic-questions-for-begginers)
 
 ### General
-**Q**. What did you learn yesterday/this week?
-**A**. 
+#### What did you learn yesterday/this week?
+
+#### What excites or interests you about coding?
+
+I'm generally interested in quite everything about coding. Nowadays I'm
+especially fascinated by Haskell, one of the most beautiful languages I've
+ever experienced.
+
+Also I like to create tools and services I and many others can be helped by
+and enjoy using.
+
+
 
 ```
 function isPrime(n){
