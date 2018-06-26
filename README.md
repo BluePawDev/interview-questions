@@ -6,6 +6,20 @@
 To rock the interview to achieve what you deserve and to improve your concepts about front end technologies, I have consolidated a list of questions and answers. It's a one stop solution for front end interview process.
 
 ## Table of Contents
+* [General](#javascript-basics-and-tricky-questions)
+* [General: Coding](#javascript-basics-and-tricky-questions)
+* [HTML](#javascript-basics-and-tricky-questions)
+* [CSS](#javascript-basics-and-tricky-questions)
+* [JavaScript: General](#javascript-basics-and-tricky-questions)
+* [JavaScript: Algorithms](#javascript-basics-and-tricky-questions)
+* [Testing](#javascript-basics-and-tricky-questions)
+* [Angular](#javascript-basics-and-tricky-questions)
+* [Node.js](#javascript-basics-and-tricky-questions)
+* [Vue.js](#javascript-basics-and-tricky-questions)
+* [Networking](#javascript-basics-and-tricky-questions)
+* [Performance](#javascript-basics-and-tricky-questions)
+* [Accessibility](#javascript-basics-and-tricky-questions)
+* [DOM](#javascript-basics-and-tricky-questions)
 * [JavaScript: Basics and Tricky Questions](#javascript-basics-and-tricky-questions)
 * [Algorithm Beginners Level](#javascript-algorithm-beginners-level)
 * [Intermediate Level Questions](#javascript-for-intermediate-level-developer)
